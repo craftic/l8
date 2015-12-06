@@ -151,6 +151,7 @@ int stat;
 const int n = 3;
 pStruct masProc[n];
 
+
 int freeProc()
 {
 	for (int i = 0; i < n; i++){
